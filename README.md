@@ -1,5 +1,9 @@
 # Automatic segmentation of brain tumors on structural magnetic resonance imaging with deep convolutional neural networks
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Qsinap/Brain-tumors-segmentation/56f502b8df4c9d30b4bc0c479d6dc82361c5f733/Figures/IconBrain.svg">
+</p>
+
 # Table of Contents
 1. [Abstract](#abstract)
 2. [Methodology](#methodology)
