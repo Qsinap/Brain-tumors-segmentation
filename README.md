@@ -12,7 +12,7 @@ The analysis of medical images to explore brain tumors has gained relevance in r
 
 ## Methodology
 
-We propose a comparative study to determine the most efficient convolutional neural network in brain tumor segmentation on structural magnetic resonance imaging. Our approach is based on the study of the seven most common and novel CNN architectures. Besides, we also evaluate their performance with the latest loss functions. The models are trained and validated with two data sets of different resolutions. Finally, the results are evaluated through the Dice coefficient, sensitivity, and specificity to give a detailed description of the segmentation process.
+We propose a comparative study to determine the most efficient convolutional neural network in brain tumor segmentation on structural magnetic resonance imaging. Our approach is based on the study of the seven most common and novel CNN architectures. Besides, we also evaluate their performance with the latest loss functions. The models are trained and validated with two data sets of different resolutions.
 
 ## Results
 
