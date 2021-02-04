@@ -5,6 +5,7 @@
 2. [Methodology](#methodology)
 3. [Results](#results)
 4. [Codes](#codes)
+5. [Citation](#citation)
 
 ## Abstract
 
@@ -30,3 +31,15 @@ Segmentation of the seven networks trained with [The Cancer Genome Atlas Low-Gra
 
 ## Codes
 The implemented codes are made available to the public in the following link [Click Here](https://github.com/Qsinap/Brain-tumors-segmentation/tree/main/Codes)
+
+## Citation
+
+```
+@article{brain tumors segmentation,
+  title={Automatic segmentation of brain tumors on structural magnetic resonance imaging with deep convolutional neural networks},
+  author={A. Anaya-Isaza, L. Mera-Jim\'enez and A. Ram\'{\i}rez-Oca\~{n}a},
+  journal={doi},
+  month={},
+  year={2021}
+}
+```
