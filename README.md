@@ -47,3 +47,4 @@ The implemented codes are made available to the public in the following link [Cl
   year={2021}
 }
 ```
+This research was supported by the research division from [INDIGO Technologies.](https://indigo.tech/)
